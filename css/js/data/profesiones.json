@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "nombre": "Cantante",
+        "categoria": "Entretenimiento",
+        "salario": "9000"
+    },
+    {
+        "id": "2",
+        "nombre": "Tecnico en redes",
+        "categoria": "Tecnología",
+        "salario": "20000"
+    },
+    {
+        "id": "3",
+        "nombre": "Psicologa",
+        "categoria": "Ciencia",
+        "salario": "15000"
+    },
+    {
+        "id": "4",
+        "nombre": "Médico\/a",
+        "categoria": "Ciencia",
+        "salario": "18000"
+    },
+    {
+        "id": "5",
+        "nombre": "Artista",
+        "categoria": "Entretenimiento",
+        "salario": "12000"
+    },
+    {
+        "id": "6",
+        "nombre": "Profesor\/a",
+        "categoria": "Educación",
+        "salario": "14000"
+    },
+    {
+        "id": "68406294c275a",
+        "nombre": "fotografa",
+        "categoria": "Arte",
+        "salario": "90000"
+    },
+    {
+        "id": "6841d4ab11cd1",
+        "nombre": "Exploradora",
+        "categoria": "Arte",
+        "salario": "58000"
+    }
+]

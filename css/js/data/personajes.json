@@ -1,0 +1,47 @@
+[
+    {
+        "id": "8090",
+        "nombre": "Alan",
+        "apellido": "Sherwood",
+        "fecha_nacimiento": "2000-07-05",
+        "foto": "img\/683efbdf22d1f_76463237-12622243-image-a-23_1697098689387.avif",
+        "rol": "Médico\/a",
+        "experiencia": "Intermedio"
+    },
+    {
+        "id": "2345",
+        "nombre": "Ken",
+        "apellido": "carson",
+        "fecha_nacimiento": "1990-09-08",
+        "foto": "img\/683efde7d2d07_ryan-gosling-ken-1.jpg",
+        "rol": "Artista",
+        "experiencia": "Avanzado"
+    },
+    {
+        "id": "6745",
+        "nombre": "Barbara",
+        "apellido": "Milicent",
+        "fecha_nacimiento": "2004-03-07",
+        "foto": "img\/683f05fe5b001_barbie-curiosidades-3085998.webp",
+        "rol": "Profesor\/a",
+        "experiencia": "Avanzado"
+    },
+    {
+        "id": "2045",
+        "nombre": "Migde",
+        "apellido": "Mattel",
+        "fecha_nacimiento": "1995-12-08",
+        "foto": "img\/68406258ac477_Barbie-Made-to-Move-Barbie-Doll-Amazon-Exclusive4.jpg",
+        "rol": "Profesor\/a",
+        "experiencia": "Principiante"
+    },
+    {
+        "id": "4040",
+        "nombre": "Anastacia",
+        "apellido": "Stacie",
+        "fecha_nacimiento": "2010-07-09",
+        "foto": "img\/6841d46a80dcd_OIP (22).jpeg",
+        "rol": "Explorador\/a",
+        "experiencia": "Principiante"
+    }
+]

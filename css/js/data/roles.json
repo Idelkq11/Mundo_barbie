@@ -1,0 +1,12 @@
+[
+  { "id": "r1", "nombre": "Científico/a" },
+  { "id": "r2", "nombre": "Piloto/a" },
+  { "id": "r3", "nombre": "Chef" },
+  { "id": "r4", "nombre": "Artista" },
+  { "id": "r5", "nombre": "Médico/a" },
+  { "id": "r6", "nombre": "Ingeniero/a" },
+  { "id": "r7", "nombre": "Fotógrafo/a" },
+  { "id": "r8", "nombre": "Profesor/a" },
+  { "id": "r9", "nombre": "Músico/a" },
+  { "id": "r10", "nombre": "Explorador/a" }
+]
